@@ -1,4 +1,4 @@
-package sorting3;
+package sorting1;
 
 import java.util.Scanner;
 public class bubbleSort {
